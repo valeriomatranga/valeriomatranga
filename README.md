@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-  <img style="width: 50px;" src="https://www.francoiacovelli.it/wp-content/uploads/2015/09/HTML5_logo_and_wordmark.svg_.png" alt="Logo HTML5">
+  <img width:'30px' style="width: 50px;" src="https://www.francoiacovelli.it/wp-content/uploads/2015/09/HTML5_logo_and_wordmark.svg_.png" alt="Logo HTML5">
   <img style="width: 50px;" src="https://img.icons8.com/color/452/css3.png" alt="Logo CSS3">
   <img style="width: 50px;" src="https://www.sumasoftware.click/wp-content/uploads/2016/03/js-logo.png" alt="Logo JavaScript">
   <img style="width: 50px;" src="https://www.geekandjob.com/uploads/wiki/106eb730f7c2e52c9e0eb4b2d7a649ce.svg" alt="Logo SASS">
