@@ -5,7 +5,7 @@
     display: flex;
   }
   img{
-    margin: 10px
+    margin: 20px
   }
 </style>
 -->
