@@ -1,4 +1,4 @@
-### Hi there 👋
+### Benvenuto nel mio profilo Git 👋
 <!--
 <style>
   .logo{
