@@ -17,7 +17,7 @@
   <img align='center' width="50px" src="https://cdn.iconscout.com/icon/free/png-512/bootstrap-6-1175203.png" alt="Logo Bootstrap">
   <img align='center' width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" alt="Logo VueJs">
   <img align='center' width="50px" src="https://www.php.net/images/logos/new-php-logo.svg" alt="Logo PHP">
-  <img align='center' width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Logo.min.svg/1200px-Logo.min.svg.png" alt="Logo Laravel">
+  <img align='center' width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Logo.min.svg/1200px-Logo.min.svg.png" alt="Logo Laravel">
   <img align='center' width="50px" src="https://idocet.it/wp-content/uploads/2017/05/Logo-SQL.png" alt="Logo SQL">
   <img align='center' width="50px" src="https://yoroi.company/wp-content/uploads/2016/09/1200px-MySQL.svg_.png" alt="Logo MySQL">
   <img align='center' width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" alt="Git">
