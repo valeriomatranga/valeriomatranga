@@ -11,6 +11,7 @@
   <img style="width: 50px;" src="https://idocet.it/wp-content/uploads/2017/05/Logo-SQL.png" alt="Logo SQL">
   <img style="width: 50px;" src="https://yoroi.company/wp-content/uploads/2016/09/1200px-MySQL.svg_.png" alt="Logo MySQL">
   <img style="width: 50px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" alt="Git">
+  <img align="center" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/> HTML5
 
 
 
