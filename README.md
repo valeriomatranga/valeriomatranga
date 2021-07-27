@@ -4,6 +4,9 @@
   .logo{
     display: flex;
   }
+  img{
+    margin: 10px
+  }
 </style>
 <div class="logo">
   <img align='center' width="50px" src="https://www.francoiacovelli.it/wp-content/uploads/2015/09/HTML5_logo_and_wordmark.svg_.png" alt="Logo HTML5">
