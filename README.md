@@ -5,11 +5,12 @@
   <img style="width: 30px;" src="https://www.sumasoftware.click/wp-content/uploads/2016/03/js-logo.png" alt="Logo JavaScript">
   <img style="width: 30px;" src="https://www.geekandjob.com/uploads/wiki/106eb730f7c2e52c9e0eb4b2d7a649ce.svg" alt="Logo SASS">
   <img style="width: 30px;" src="https://cdn.iconscout.com/icon/free/png-512/bootstrap-6-1175203.png" alt="Logo Bootstrap">
-  <img style="width: 30px;" src="https://s.pngix.com/pngfile/s/683-6833879_vue-js-logo-svg-hd-png-download.png" alt="Logo VueJs">
+  <img style="width: 30px;" src="https://spng.subpng.com/20180407/gse/kisspng-vue-js-javascript-framework-front-and-back-ends-gi-technical-    5ac9109e6cb7f5.5357905715231264304453.jpg" alt="Logo VueJs">
   <img style="width: 30px;" src="https://www.php.net/images/logos/new-php-logo.svg" alt="Logo PHP">
-  <img style="width: 30px;" src="https://mpng.subpng.com/20180920/hq/kisspng-laravel-software-framework-web-framework-php-zend-laravel-software-framework-php-web-framework-model-5ba3437deb19e7.104986071537426301963.jpg" alt="Logo Laravel">
+  <img style="width: 30px;" src="https://www.vhv.rs/dpng/d/458-4586484_laravel-meetup-logo-know-hd-png-download.png" alt="Logo Laravel">
   <img style="width: 30px;" src="https://mpng.subpng.com/20180526/oqt/kisspng-microsoft-sql-server-mysql-database-logo-5b098c6ebad6d7.7316225815273524307653.jpg" alt="Logo SQL">
-  <img style="width: 30px;" src="https://banner2.cleanpng.com/20180816/wjj/kisspng-logo-mysql-5-einfhrung-programmierung-referen-mysql-5b758eb2670562.190553501534430898422.jpg" alt="Logo MySQL">
+  <img style="width: 30px;" src="https://www.pngfind.com/pngs/m/74-744138_mysql-logo-png-mysql-transparent-png.png" alt="Logo MySQL">
+
 
 
 
