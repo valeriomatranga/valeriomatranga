@@ -1,6 +1,6 @@
 ### Hi there 👋
-
-##<style>
+<!--
+<style>
   .logo{
     display: flex;
   }
@@ -8,6 +8,7 @@
     margin: 10px
   }
 </style>
+-->
 <div class="logo">
   <img align='center' width="50px" src="https://www.francoiacovelli.it/wp-content/uploads/2015/09/HTML5_logo_and_wordmark.svg_.png" alt="Logo HTML5">
   <img align='center' width="50px" src="https://img.icons8.com/color/452/css3.png" alt="Logo CSS3">
