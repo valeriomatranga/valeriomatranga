@@ -23,7 +23,7 @@
   <img align='center' width="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" alt="Git">
 </div>
 
-<div class="tenor-gif-embed" data-postid="19684211" data-share-method="host" data-width="100%" data-aspect-ratio="1.0"><a href="https://tenor.com/view/code-coding-computer-gif-19684211">Code Coding GIF</a> from <a href="https://tenor.com/search/code-gifs">Code GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div class="tenor-gif-embed" data-postid="19684211" data-share-method="host" data-width="100%" data-aspect-ratio="1.0"</div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <!--
 **valeriomatranga/valeriomatranga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
