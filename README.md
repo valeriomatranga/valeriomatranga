@@ -23,6 +23,9 @@
   <img align='center' width="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" alt="Git">
 </div>
 
+<video width="320" height="240" autoplay>
+  <source src="https://tenor.com/view/code-coding-computer-gif-19684211" type="video/ogg">
+</video>
 
 
 
